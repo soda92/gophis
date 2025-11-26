@@ -1,0 +1,8 @@
+[login_profiles]
+  [login_profiles.standard]
+    identifier = "phisname"
+    captcha_enabled = true
+
+  [login_profiles.alternate]
+    identifier = "j_username"
+    captcha_enabled = false

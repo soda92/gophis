@@ -1,0 +1,9 @@
+/get-dead-data
+/get_dead_data
+/config_gui
+/captcha_gui
+
+# Ignore local credentials file
+credentials.toml
+
+/__debug_bin*
